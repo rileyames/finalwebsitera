@@ -1,0 +1,71 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+li {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+#home {
+    background-image: url('images/blurredbackground.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    min-height: 40vh; 
+    color: white; 
+}
+
+#paris {
+    background-color: #b7c9e2;
+}
+
+#rome {
+    background-color: #b7c9e2;
+}
+
+#athens {
+    background-color: #b7c9e2;
+}
+
+#dubai {
+    background-color: #b7c9e2;
+}
+
+.bg-light {
+    background-color: #f8f9fa; 
+}
+
+
